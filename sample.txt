@@ -1,0 +1,52 @@
+As you’re in the very beginning stage of learning how to create a XML document.
+  Write an XML to accept student details [Name, ID, Branch and CGPA] for minimum 5 students.
+
+<class>
+
+<student>
+
+<name> ABC </name>
+
+<id> 001 </id>
+
+<branch> IT </branch>
+
+<cgpa> 9 </cgpa>
+
+</student>
+
+<student>
+
+
+
+
+Write a program for Students information, and the XML file is created that contains                 
+Student [id, regno, name, avg, dob, time, mobileno, distinction], the information about five students of different categories 
+and displaying the XML file.
+Sample Template:
+
+<students_info>
+
+<student>                               
+
+   <regno>170024</regno>
+
+   <name>ABC</name>   
+
+   <avg>92</avg>
+
+   <dob>15-08-1992</dob> 
+
+   <time></time>      
+
+   <mobile no="9849984900"/>                         
+
+   <distinction>YES</distinction>
+
+ </student>
+
+…
+
+…
+
+</students_info>
