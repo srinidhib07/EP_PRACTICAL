@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+	<student sid="1">
+		<name>Srinidhi</name>
+		<id>1900</id>
+		<branch>CSE</branch>
+		<cgpa>9</cgpa>
+
+	</student>
+	<student sid="2">
+		<name>Priya</name>
+		<id>1901</id>
+		<branch>CSE</branch>
+		<cgpa>9</cgpa>
+
+	</student>
+	<student sid="3">
+		<name>Sarah</name>
+		<id>1902</id>
+		<branch>ECE</branch>
+		<cgpa>8</cgpa>
+	</student>
+
+	<student sid="4">
+		<name>Nithya</name>
+		<id>1903</id>
+		<branch>EEE</branch>
+		<cgpa>9</cgpa>
+	</student>
+
+	<student sid="5">
+		<name>Sreya</name>
+		<id>1904</id>
+		<branch>CSE</branch>
+		<cgpa>9</cgpa>
+	</student>
+
+</Student>
+
+
